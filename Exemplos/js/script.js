@@ -1,17 +1,6 @@
-//var $j = JQuery.noConflict();
+$(function(){
 
-//$j(document).ready(function () { 
-    //alert("pronto!"); 
-//});
+    $('button');
 
-JQuery(document).ready(function(){
-    alert("pronto!"); 
 });
-
-//ou
-
-//$(function(){
-//alert("pronto!");
-//});
-
 
