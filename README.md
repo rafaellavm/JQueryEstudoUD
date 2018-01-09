@@ -8,3 +8,5 @@
 
 Todos os arquivos estão nomeados com os assuntos que serão tratados nos mesmos.
 
+Os arquivos também contém comentários com explicações.
+
